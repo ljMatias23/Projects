@@ -1,0 +1,11 @@
+.DS_Store
+.classpath
+.project
+*.class
+Final Project Proposal.pdf
+FinalProject.sublime-project
+FinalProject.sublime-workspace
+FinalProjectNotes.txt
+com/
+junit-4.12/
+org/
