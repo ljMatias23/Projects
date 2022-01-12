@@ -1,1 +1,0 @@
-Code files bean, dao and webb is where the majority of the code is located. All three are java code that have html, css, and database information. 

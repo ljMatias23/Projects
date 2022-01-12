@@ -1,5 +1,0 @@
-string0*Reddington: 'How did I get here?'
-string1*Reddington: 'Why am I so red?'
-string2*Reddington: 'I guess I do look good in red...'
-string3*Reddington: 'What is my purpose in life?'
-string4*Reddington: 'Can you help me escape?'
